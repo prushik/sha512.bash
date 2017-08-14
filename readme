@@ -1,0 +1,6 @@
+# sha512.bash
+
+An implementation of SHA512 written in pure bash! You are gonna love it!
+
+
+In all seriousness though, this is very useless, its incredible how slow it is, and its super ugly and hacky because bash is really not good at this kind of thing. Really my intention is to give an excellent example of what you should not do in bash.
